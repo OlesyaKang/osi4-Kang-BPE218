@@ -1,5 +1,5 @@
 # osi4-Kang-BPE218
-## 4-ая домашняя работа
+## 4-ая домашняя работа Кан Олеся
 ```c
 #include <sys/types.h>
 #include <unistd.h>
